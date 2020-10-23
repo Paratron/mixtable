@@ -4,7 +4,7 @@ Mixtable is a debugging/development tool for web requests (HTTP, Websocket)
 
 ## Motivation
 
-In the past, I was using tools like [Fiddler]() a lot. Since the devtools in firefox and chrome gotten better through
+In the past, I was using tools like [Fiddler](https://www.telerik.com/fiddler) a lot. Since the devtools in firefox and chrome gotten better through
 the years, I found myself using a debugging proxy only rarely.
 
 However, during the development of my current project, I often have the need for simulating API call failures, missing
