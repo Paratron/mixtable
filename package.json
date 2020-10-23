@@ -1,0 +1,11 @@
+{
+  "name": "mixtable",
+  "version": "0.0.1",
+  "description": "Mixtable is a debugging/development tool for web requests (HTTP + Websocket)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Engel",
+  "license": "ISC"
+}
